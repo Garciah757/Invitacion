@@ -1,0 +1,77 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Grey+Qo&family=Playball&display=swap');
+*/
+@font-face {
+    font-family: 'Playball';
+    src: url('/assets/fonts/Playball-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Emilys Candy';
+    src: url('/assets/fonts/EmilysCandy-Regular.woff') format('woff');
+}
+
+*{
+    background-color: #f0e6c8;    
+}
+.header{
+
+font-family: 'Gill Sans MT', sans-serif;
+}
+
+.body {
+    font-family: 'Emilys Candy';
+    }
+
+img{
+display: flex;
+size: 90vw auto;
+border-radius: 30px 30px;
+justify-content: center;
+align-items: center;
+
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Playball';
+    font-size: 60px;
+}
+
+.h2 {
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 30px;
+}
+.p_ubi {
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 20px;
+}
+
+
+.etiqueta{
+    position: relative;
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 30px;
+}
+.p_etiqueta{
+    position: relative;
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 20px;
+}
+.asistencia{
+    position: relative;
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 30px;
+}
+.p_asistencia{
+    position: relative;
+    text-align: left;
+    font-family: "Emilys Candy", serif;
+    font-size: 20px;
+}
+
+
