@@ -7,8 +7,8 @@
     src: url('../assets/fonts/EmilysCandy-Regular.woff') format('woff');
 }
 :root {
-    --bg-color: #f0e6c8;
-    --accent-color: #6974ef;
+    --bg-color: #b9e0f2;
+    --accent-color: #8080db;
     --font-main: 'Emilys Candy', serif;
     --font-title: 'Playball', cursive;
   }
@@ -21,7 +21,7 @@
 body {
     background-color: var(--bg-color);
     font-family: var(--font-main);
-    color: #333;
+    color: #242424;
     text-align: center;
     line-height: 1.6;
     padding: 20px;
@@ -33,7 +33,7 @@ body {
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: #fff3dc;
+    background-color: #cee5f1;
     padding: 10px 20px;
     border-radius: 10px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -75,7 +75,7 @@ body {
 .section {
   max-width: 800px;
   margin: 0 auto 50px;
-  background-color: #fff9ed;
+  background-color: #cee5f1;
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
